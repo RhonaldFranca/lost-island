@@ -36,6 +36,7 @@ export async function buildNPCSheetsRequest(fileName: string) {
   const data: Response = await response.json();
 
   return data.sheets;
+
 }
 
 const URL =
