@@ -51,10 +51,10 @@ export async function oauthorise(
 }
 
 export function redirectOAuth() {
-  const applicationID = "946044940008435803";
+  const applicationID = "1204837759425187860";
   const redirect = encodeURIComponent(CONFIG.DISCORD_REDIRECT as string);
 
   // Guild = server
   const scope = "guilds.members.read";
-  window.location.href = `https://discord.com/api/oauth2/authorize?response_type=code&client_id=${applicationID}&scope=${scope}&redirect_uri=${redirect}&prompt=consent`;
+  window.location.href = `https://discord.com/api/oauth2/authorize?client_id=${applicationID}&response_type=code&redirect_uri=${redirect}&scope=${scope}`;
 }
