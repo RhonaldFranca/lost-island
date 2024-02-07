@@ -32,11 +32,11 @@ export const Blocked: React.FC = () => {
         Make sure you have joined the{" "}
         <a
           className="underline hover:text-white"
-          href="https://discord.gg/sunflowerland"
+          href="https://discord.gg/nvdV2B3y5m"
           target="_blank"
           rel="noreferrer"
         >
-          Sunflower Land Discord server
+          Lost Island Discord server
         </a>
         {`, go to the #verify channel and have the "farmer" role.`}
       </p>

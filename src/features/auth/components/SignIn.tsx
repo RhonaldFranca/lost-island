@@ -355,10 +355,11 @@ export const SignIn = () => {
       />
 
       <div className="flex justify-between my-1">
-        <a href="https://discord.gg/sunflowerland" className="mr-4">
+        <a href="https://discord.gg/nvdV2B3y5m" className="mr-4">
           <img
-            src="https://img.shields.io/discord/880987707214544966?label=Sunflower%20Land&logo=Discord&style=social"
-            alt="Discord: Sunflower Land"
+            src="https://img.shields.io/discord/1204820106752823347?style=social&logo=discord&label=Lost%20Island
+            "
+            alt="Discord: Lost Island"
           />
         </a>
         <a

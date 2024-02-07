@@ -79,7 +79,7 @@ export const BoundaryError: React.FC<BoundaryErrorProps> = ({
             <a
               className="underline"
               target="_blank"
-              href="https://discord.gg/sunflowerland"
+              href="https://discord.gg/nvdV2B3y5m"
               rel="noreferrer"
             >
               discord
