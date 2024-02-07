@@ -42,7 +42,7 @@ enum Slots {
   Background = 0,
   Body = 1,
   Hair = 2,
-  Shirt = 3,
+  Shirt = 4,
   Pants = 4,
   Shoes = 5,
   Tool = 6,
